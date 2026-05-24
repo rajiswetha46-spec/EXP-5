@@ -31,7 +31,17 @@ PROCEDURE:
 2. The Regulated power supply voltage is increased in steps.
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
-4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+
+PRECAUTIONS:
+
+1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
+2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
+
+3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+RESULT:
+The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
+
 OBSERVATIONS:
 REGULATION CHARACTERISTICS:
 
@@ -42,11 +52,3 @@ V-I & REGULATION CHARACTERISTICS:
 <img width="1600" height="887" alt="image" src="https://github.com/user-attachments/assets/49515ae2-2834-4494-919e-7d3099f06512" />
 <img width="1600" height="698" alt="image" src="https://github.com/user-attachments/assets/68241ee7-2b4c-4b4b-8920-f5bea41b8f8b" />
 
-PRECAUTIONS:
-
-1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
-2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
-
-3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-RESULT:
-The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
